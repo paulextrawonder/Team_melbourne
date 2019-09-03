@@ -3,6 +3,8 @@
     width:80%;
     margin:auto;
     border:10px solid goldenrod;
+    border-left:10px solid rgba(128, 0, 0, 0.671);
+    border-bottom:10px solid rgba(128, 0, 0, 0.671);
     height:1200px;
 }
 
